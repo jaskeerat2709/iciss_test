@@ -10544,4 +10544,8 @@ body.node-type-blog-post .comment-wrapper .indented .indented {
 .square-bullets {
     list-style-type: square;
 }
+
+strong {
+        color: inherit; /* Inherit color from default link */
+    }
     
