@@ -10539,3 +10539,9 @@ body.node-type-blog-post .comment-wrapper .indented .indented {
 .view-id-news_and_announcements.view-display-id-block_1 .view-content .views-row {
     margin-bottom: 10px;
 }
+
+
+.square-bullets {
+    list-style-type: square;
+}
+    
